@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Spacy Favicon - Dyson Sphere -->
+
+  <!-- Étoile centrale -->
+  <circle cx="256" cy="256" r="56" fill="#4fc3f7"/>
+
+  <!-- Anneau principal avec ouvertures -->
+  <path d="
+    M 256 56
+    A 200 200 0 0 1 456 256
+    A 200 200 0 0 1 256 456
+    A 200 200 0 0 1 56 256
+    A 200 200 0 0 1 256 56
+  " fill="none" stroke="#4fc3f7" stroke-width="24" stroke-dasharray="80 40"/>
+
+  <!-- Anneau intérieur -->
+  <circle cx="256" cy="256" r="130" fill="none" stroke="#4fc3f7" stroke-width="16" stroke-dasharray="50 30"/>
+</svg>
