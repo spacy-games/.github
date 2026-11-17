@@ -11,7 +11,11 @@
 
 <p align="center">
   <a href="https://spacy.games">Site officiel</a> &bull;
-  <a href="https://discord.gg/kgmdFc56mt">Discord</a>
+  <a href="https://discord.gg/kgmdFc56mt">Discord</a> &bull;
+  <a href="https://www.facebook.com/spacygamesofficial">Facebook</a> &bull;
+  <a href="https://www.instagram.com/spacy.games.official/">Instagram</a> &bull;
+  <a href="https://www.threads.com/@spacy.games.official">Threads</a> &bull;
+  <a href="https://bsky.app/profile/spacy.games">Bluesky</a>
 </p>
 
 ---
@@ -32,7 +36,7 @@ Un même compte joue sur **plusieurs serveurs de jeu indépendants** (bêta, and
 - **Galaxie** — Exploration multi-niveaux sous brouillard de guerre, cartographie procédurale
 - **Alliances** — Banque d'alliance, sphère de Dyson, plans d'attaque coordonnés
 - **Classements et primes** — Classements par catégorie et Bureau des primes
-- **Social** — Messagerie et chat en temps réel, relations militaires, communauté Discord
+- **Social** — Messagerie et chat en temps réel, relations militaires, communauté Discord, présence sur Facebook, Instagram, Threads et Bluesky
 
 ---
 
@@ -48,7 +52,7 @@ Spacy repose sur une architecture **TypeScript full-stack**, organisée en monor
 | **Spacy-Backend** | Serveur de jeu (un par serveur de jeu) |
 | **Spacy-TickWorker** | Moteurs temps réel, mis à l'échelle horizontalement |
 | **Spacy-Backoffice** | Administration centralisée |
-| **Spacy-Com** | Bot Discord de la communauté |
+| **Spacy-Com** | Bot Discord de la communauté et publication sur les réseaux sociaux |
 | **Spacy-Desktop** | Client Steam |
 | **SpacyTypes** | Code partagé entre tous les services |
 
